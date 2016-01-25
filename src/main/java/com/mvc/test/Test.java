@@ -1,4 +1,4 @@
-package com.mvc.contorller;
+package com.mvc.test;
 
 /**
  * @ClassName: Test
